@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "419229901848",
+    "project_id": "btchat-9ec76",
+    "storage_bucket": "btchat-9ec76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419229901848:android:910d7dbe9a366f5ea44f6d",
+        "android_client_info": {
+          "package_name": "com.example.btchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419229901848-vksch0bl7gtnjtvjgh3nhm490l5ne4jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.btchat",
+            "certificate_hash": "a7e097a034b611dd1e04f9291f97e500b4b8d5d5"
+          }
+        },
+        {
+          "client_id": "419229901848-sk7jeb7b65htpfnehqasbsrrv0bk9h98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCARmtZCORp257bgf4LHt6UIInQr692HnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419229901848-sk7jeb7b65htpfnehqasbsrrv0bk9h98.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419229901848-7ctuaq2vlf7v7fc74m2ouj4fjr5i839b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
